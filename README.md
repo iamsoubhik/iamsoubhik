@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soubhik Mondal</h1>
 <h3 align="center">A Passionate FullStack Developer from India</h3>
-<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsoubhik&label=Profile%20views&color=0e75b6&style=flat" alt="iamsoubhik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsoubhik&label=Profile%20views&color=0e75b6&style=flat" alt="iamsoubhik" /> </p><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsoubhik" alt="iamsoubhik" /></a> </p>
 
@@ -10,16 +10,19 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/iamsoubhik?tab=repositories](https://github.com/iamsoubhik?tab=repositories)
+- 👯 I’m looking to collaborate on **Open Source Project**
+
+- 👨‍💻 All of my projects are available at https://github.com/iamsoubhik?tab=repositories
 
 - 💬 Ask me about **React,Node,Mysql**
 
-- 📄 Know about my experiences -- I have a year of Experience In Development
+- 📄 Know about my experiences **I have a year of Experience In Development**
 
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/thecsgrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thecsgrad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
