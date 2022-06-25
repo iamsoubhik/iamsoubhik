@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soubhik Mondal</h1>
 <h3 align="center">A Passionate FullStack Developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://https://dribbble.com/shots/5403918-Focus")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsoubhik&label=Profile%20views&color=0e75b6&style=flat" alt="iamsoubhik" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React,Node,Mysql**
 
-- 📄 Know about my experiences [I have a year of Experience In Development](I have a year of Experience In Development)
+- 📄 Know about my experiences -- I have a year of Experience In Development
 
 - ⚡ Fun fact **I think I am Funny**
 
